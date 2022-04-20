@@ -1,8 +1,8 @@
 /* ödev */
 
-body {
-    background-color: rgb(171, 195, 228);
+.text-type {
     font-family: 'Beau Rivage', cursive;
+    color: rgb(107, 105, 103)
 }
 
 .ortala { 
